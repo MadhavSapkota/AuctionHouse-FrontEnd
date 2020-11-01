@@ -1,0 +1,421 @@
+.auction_Name{
+	background-color: red;
+}
+
+.card-body{
+/*	background-color: red;*/
+	height:70px;
+}
+.col-12{
+	height: 90px;
+}
+.row{
+	padding-top: 9px;
+	/*Add background Image here*/
+
+
+    
+    /*height: 1864px;*/
+}
+
+/*.row1{
+    padding-top: 9px;
+    background: lightseagreen;
+}*/
+
+
+
+
+
+ 
+     .carousel-inner img {
+         width: 100%;
+         height: 50%;
+         }
+     
+/*.carousel-inner {
+	height: 100%;
+}*/
+
+.carousel-inner{
+	height: 600px;
+
+
+}
+
+.carousel-caption{
+	height: 300px;
+}
+
+.carousel-indicators{
+	height: 190px;
+}
+
+img {
+    width:160px;
+    
+    padding-bottom: 30px;
+    /*width: 155px;*/
+    margin-bottom: 4px;
+    margin-top: 26px;
+    height: 200px;
+
+   
+
+    }
+
+
+
+    img 1{
+    width:160px;
+    
+    padding-bottom: 30px;
+    /*width: 155px;*/
+    margin-bottom: 4px;
+    margin-top: 26px;
+    height: 200px;
+
+   
+
+    }
+
+    .justify-content-center {
+    	width: 1320px;
+    }
+
+   #section2{
+   /*display: table-caption;*/
+   /*display: flex;*/
+  /*  justify-content:center;
+    align-items:center;*/
+
+     padding-top: 70px;
+    padding-bottom: 70px;
+  /*  display: flex;*/
+    justify-content: center;
+    align-items: center;
+    display: table-caption;
+   /* background-color: rgba(19, 168, 255, 0.3);*/
+}
+
+#images{
+    padding-left: 88px;
+	/*background-color: rgba(19, 168, 255, 0.3);
+	background-color: red;*/
+}
+
+
+/*.card-img-top{
+	width: 29%;
+    padding-right: 90px;
+    padding-left: 4px;
+    margin-left: 430px;
+    margin-bottom: -380px;
+
+}*/
+
+img.card-img-top {
+ /* width: 29%; 
+   padding-right: 90px;
+    padding-left: 4px;
+    margin-left: 270px;
+    margin-bottom: -380px;*/
+
+    width: 21%;
+    padding-right: 63px;
+    padding-left: 15px;
+    margin-left: 270x;
+    margin-bottom: -295px;
+    margin-left: 250px
+}
+
+img.card-img-top1 {
+
+    width: 21%;
+    padding-right: 64px;
+    padding-left: 15px;
+    margin-left: 270px;
+    margin-bottom: -295px;
+    margin-left: 0px;
+
+}
+
+img.card-img-top2 {
+
+    width: 21%;
+    padding-right: 64px;
+    padding-left: 15px;
+    margin-left: 270px;
+    margin-bottom: -295px;
+    margin-left: 0px;
+
+}
+
+
+img.card-img-top3 {
+
+    width: 21%;
+    padding-right: 60px;
+    padding-left: 15px;
+    margin-left: 270px;
+    margin-bottom: -676px;
+    /*margin-left: 0px;*/
+    margin-left: 247px;
+
+}
+
+
+img.card-img-top4 {
+
+    width: 21%;
+    padding-right: 60px;
+    padding-left: 15px;
+    margin-left: 270px;
+    margin-bottom: -676px;
+    /*margin-left: 0px;*/
+    margin-left: 240px;
+
+}
+
+img.card-img-top5{
+
+    width: 21%;
+    padding-right: 60px;
+    padding-left: 15px;
+    margin-left: 270px;
+    margin-bottom: -623px;
+    /*margin-left: 0px;*/
+    margin-left: 479px;
+
+}
+
+img.card-img-top6{
+
+     width: 21%;
+    padding-right: 60px;
+    padding-left: 15px;
+    /*margin-left: 270px;*/
+    margin-bottom: -1008px;
+    /*margin-left: 0px;*/
+    margin-left: 247px;
+
+}
+
+img.card-img-top7{
+
+    width: 21%;
+    padding-right: 60px;
+    padding-left: 15px;
+    /*margin-left: 270px;*/
+    margin-bottom: -845px;
+    /*margin-left: 0px;*/
+    margin-left: 453px;
+
+}
+
+#advanceSearch{
+	background-color: red;
+}
+/*
+    margin-left: 770px;
+        margin-top: -119px;
+        padding-right: 10px;*/
+
+
+
+button.btn-lg1{
+	/*margin-left: 770px;*/
+        margin-top: -119px;
+        padding-right: 10px;
+        margin-left: 900px;
+        height: 160%;
+
+        /*background-color: red;*/
+
+}     
+
+
+
+
+.fixed-top{
+/*     background-color: red;*/
+     height: 91px;
+
+
+}
+
+.img-fluid{
+    border-radius: 50%;
+    margin-left: 491px;
+    margin-top: 7px;
+    width: 68px;
+}
+
+
+img.imgresponsivep{
+    padding-bottom: 30px;
+    width: 155px;
+    margin-bottom: 4px;
+    margin-top: 59px;
+    height: 136px;
+}
+
+
+/*img-responsivezz*/
+
+img.img-responsivezz{
+    padding-bottom: 30px;
+    width: 160px;
+    margin-bottom: 4px;
+    margin-top: 26px;
+    height: 136px;
+}
+
+img.img-responsivekk{
+    padding-bottom: 30px;
+    width: 160px;
+    margin-bottom: 4px;
+    margin-top: 26px;
+    height: 136px;
+}
+
+img.img-responsivell{
+    padding-bottom: 30px;
+    width: 160px;
+    margin-bottom: 4px;
+    margin-top: 26px;
+    height: 136px;
+}
+
+img.img-responsivett{
+    padding-bottom: 30px;
+    width: 160px;
+    margin-bottom: 4px;
+    margin-top: 26px;
+    height: 136px;
+}
+
+.item-details{
+    color: blue;
+    display: inline-block;
+}
+
+
+img.img-responsivering{
+    padding-bottom: 30px;
+    width: 250px;
+    margin-bottom: 4px;
+    margin-top: 26px;
+    height: 430px;
+}
+
+.rownext{
+
+    margin-right: 70px;
+    margin-left: 4px;
+    /*height: -130px;*/
+    /* max-height: 10px; */
+    height: 130px;
+
+}
+.place{
+    background-color: #fbfbfb;
+    margin-left: 60px;
+    /*margin-top: 0px;*/
+    height: 30px;
+    width: 300px;
+}
+
+.details{
+    background-color:transparent;
+}
+.pragraph{
+    background-color:#d2ea87;
+
+}
+
+.selleritems{
+
+    /*margin-top: 32px;
+    padding-left: 0px;
+    background-color: #d2ea87;
+    margin-left: 580px;
+    width: 306px;*/
+
+    margin-top: -129px;
+    padding-left: 0px;
+    background-color: #d2ea87;
+    margin-left: 590px;
+    width: 306px;
+    margin-bottom: 77px;
+
+
+
+
+}
+
+.detailsseller{
+    background-color: #92175b00;
+    height: 320px;
+    margin-top: 110px;
+}
+
+.contentHeight{
+    height: 340px;
+    padding-left: 360px;
+}
+
+.classification{
+    
+
+ /*   background-color: #fbfbfb;
+    width: 270px;
+    margin-top: -331px;
+    margin-left: 588px;*/
+
+
+    background-color: #fbfbfb;
+    width: 270px;
+    margin-top: 7px;
+   margin-left: 430px;
+   height: 26px;
+
+
+
+
+}
+
+
+.classification1{
+   
+    /*margin-left: 585px;*/
+
+   margin-top: -182px;
+    margin-left: 593px;
+
+}
+
+
+.row1{
+    /*padding-top: 9px;
+    background: lightseagreen;*/
+
+
+
+    padding-top: 3px;
+    background: lightseagreen;
+    padding-left: 600px;
+    height: 80px;
+}
+
+.fixed-top{
+    background-color:#e3f3f2;
+    height: 91px;
+}
+
+.ml-auto{
+    margin-right: 440px;
+    /*background-color: red;*/
+
+}
+

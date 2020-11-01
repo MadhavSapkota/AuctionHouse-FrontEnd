@@ -1,0 +1,80 @@
+/*This is the css for the advanceSearch.html*/
+
+.justify-content-center{
+	width: 1140px;
+	background-color: red;
+} 
+
+.card-body{
+/*	background-color: red;*/
+	height:70px;
+}
+
+.col-12{
+	height: 90px;
+}
+
+.row{
+	padding-top: 9px;
+	/*Add background Image here*/
+}
+
+
+}*/
+.button1{
+	/*background-color: red;*/
+	padding-left: 441px;
+}
+}
+
+.button2{
+	/*margin-left: 10px;*/
+	margin-left: 20px;
+    background-color: red;
+	
+}
+
+.btn.btn-lg2{
+	margin-left: 16px;
+	/*background-color: red;*/
+}
+
+
+
+.btn.btn-lg1{
+	margin-left: 130px;
+	/*background-color: red;*/
+}
+
+
+.text-white {
+	background-color: green;
+	width: 460px;
+	margin-left: 210px;
+	margin-top: 30px;
+
+}
+
+
+
+
+.btn.btn-blue{
+	margin-left: -13px;
+	background-color: blue;
+	width: 360px;
+}
+
+.btn.btn-lg0{
+	margin-left: 200px;
+    margin-bottom: -160px;
+}
+
+.img-fluid{
+	width: 156px;
+    margin-left: 217px;
+    margin-bottom: -153px;
+}
+
+
+
+
